@@ -36,6 +36,19 @@ ul{
     box-shadow: 1px 1px 10px 2px rgb(255, 250, 250);
     transition: 1s ease-in;
 }
+@media (max-width:490px){
+   .homepage img{
+        width:50vw;
+        height:40vh;
+    }
+    .homepage img:hover{
+        width:55vw;
+        height:45vh;
+    }
+    .aboutpage{
+        height:fit-content;
+    }   
+}
 @media (max-width: 500px) {
     .homepage{
         display:flex;
