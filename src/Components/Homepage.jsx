@@ -9,8 +9,9 @@ const Homepage = () => {
         <img src={photo} className="rounded-circle" alt="myphoto" loading='lazy'/>
        </div>
        <div>
-         <h2 className="text-light">Hi. My Name is Ayushman Choudhary</h2>
+         <h2 className="text-light">Hi, My Name is Ayushman Choudhary</h2>
          <p className="fs-5 text-light">I am an aspiring web developer</p>
+         <a href="../Ayushman_Choudhary_resume (2) updated.pdf" download><button className="btn btn-success">Download Resume</button></a>
        </div>
       </section>
     </>
