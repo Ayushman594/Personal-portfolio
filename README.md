@@ -15,3 +15,8 @@ Projects page includes list of projects that i have done previously. Here I have
 <br>
 <img width="1919" height="877" alt="image" src="https://github.com/user-attachments/assets/71fd461c-d7ef-486a-af71-a934800a4525" />
 
+In Skills page, I have mentioned all of my skills including Technical Skills and Soft Skills.
+
+<img width="1919" height="866" alt="image" src="https://github.com/user-attachments/assets/b0372647-715e-4cdc-b210-8bd6e1ae1ef3" />
+
+
