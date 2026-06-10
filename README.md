@@ -4,7 +4,7 @@ This portfolio site includes sections like homepage, About page, Project page, S
 
 Home page includes my brief introduction and my Photo and a button by clicking on which anyone can download my resume.
 <br>
-<img width="1919" height="873" alt="image" src="https://github.com/user-attachments/assets/b8e15c57-6943-4095-bd8b-a82050759ba2" />
+<img width="1919" height="873" alt="image" src="https://github.com/user-attachments/assets/b8e15c57-6943-4095-bd8b-a82050759ba2" /> 
 <br>
 About page includes Complete/more detailed introduction about myself
 <br>
