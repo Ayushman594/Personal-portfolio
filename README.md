@@ -20,3 +20,11 @@ In Skills page, I have mentioned all of my skills including Technical Skills and
 <img width="1919" height="866" alt="image" src="https://github.com/user-attachments/assets/b0372647-715e-4cdc-b210-8bd6e1ae1ef3" />
 
 
+And in Contact page, I have mentioned my phone number, email address and links to a social media handle, github profile link and LinkedIn link
+
+<img width="1919" height="867" alt="image" src="https://github.com/user-attachments/assets/fcaff680-59e8-4060-b4f2-bbfe202a1d17" />
+
+
+After this, I have made these weboages Responsive by using media queries.
+
+On Mobile view , My Portfolio sites will look like this
