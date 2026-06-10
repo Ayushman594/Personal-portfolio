@@ -12,7 +12,7 @@ About page includes Complete/more detailed introduction about myself
 <br>
 
 Projects page includes list of projects that i have done previously. Here I have mentioned Project title, Short Project description and button to view projects. Clicking on this button will direct anyone to the deployed project links where they can see and use my projects.
-<br>
+
 <img width="1919" height="877" alt="image" src="https://github.com/user-attachments/assets/71fd461c-d7ef-486a-af71-a934800a4525" />
 
 In Skills page, I have mentioned all of my skills including Technical Skills and Soft Skills.
