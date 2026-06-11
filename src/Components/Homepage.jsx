@@ -5,10 +5,10 @@ const Homepage = () => {
     <>
       <Nav />
       <section className="homepage bg-dark pt-5 d-flex justify-content-center align-items-center gap-5">
-       <div className="ps-5">
+       <div className="img-container ps-5">
         <img src={photo} className="rounded-circle" alt="myphoto" loading='lazy'/>
        </div>
-       <div>
+       <div className="intro">
          <h2 className="text-light">Hi, My Name is Ayushman Choudhary</h2>
          <p className="fs-5 text-light">I am an aspiring web developer</p>
          <a href="../Ayushman_Choudhary_resume (2) updated.pdf" download><button className="btn btn-success">Download Resume</button></a>

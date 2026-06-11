@@ -39,6 +39,17 @@ ul{
     transition: 1s ease-in;
 }
 @media (max-width:499px){
+    .homepage{
+        display:flex;
+        flex-direction:column;
+        justify-content: center !important;
+    }
+    .img-container{
+        padding-left: 0 !important;
+    }
+    .intro{
+        padding-left: 20px;
+    }
    .homepage img{
         width:50vw;
         height:35vh;
@@ -47,6 +58,7 @@ ul{
         width:55vw;
         height:40vh;
     }
+       
     .aboutpage{
         height:fit-content;
     }
@@ -56,6 +68,15 @@ ul{
     .aboutpage p{
         width:55vw;
         margin-right:20px !important;
+    }
+    .skill-container{
+        display:flex;
+        flex-direction:column !important;
+        align-items: center;
+        gap:20px;
+    }
+    .skillpage{
+        height:fit-content;
     }
 
 }
@@ -85,6 +106,15 @@ ul{
     .aboutpage div{
 
         line-height:30px !important;
+    }
+    .skill-container{
+        display:flex;
+        flex-direction:column !important;
+        align-items: center;
+        gap:20px;
+    }
+    .skillpage{
+        height:fit-content;
     }
 }
 @media (max-width: 676px) and (min-width: 500px) {
@@ -136,7 +166,7 @@ ul{
         line-height:30px !important;
     }
 }
-@media (max-width: 1200px) and (min-width: 886px) {
+@media (max-width: 1000px) and (min-width: 886px) {
     .homepage{
         display:flex;
         align-items:center;
