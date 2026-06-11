@@ -1,3 +1,7 @@
+Github Repository Link - https://github.com/Ayushman594/Personal-portfolio.git
+
+Deployment Link - https://personal-portfolio-kappa-sooty-17.vercel.app
+
 This is my personal portfolio project which I have created by using React. Other than React , I have used React-Router for navigating to different sections of the page. I have also used Bootstrap + CSS for styling the site. 
 
 This portfolio site includes sections like homepage, About page, Project page, Skill page and Contact page. Each section/page contains a Navbar and their respective data.
