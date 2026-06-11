@@ -28,6 +28,8 @@ And in Contact page, I have mentioned my phone number, email address and links t
 After this, I have made these weboages Responsive by using media queries.
 
 On Mobile view , My Portfolio site will look like this
+
+
 <img width="524" height="876" alt="image" src="https://github.com/user-attachments/assets/fcfc5ff4-dc17-4e27-b232-3c46a35dba57" />
 <img width="517" height="870" alt="image" src="https://github.com/user-attachments/assets/f86ccd28-8623-44dc-bb55-8fe97c20efb2" />
 <img width="512" height="875" alt="image" src="https://github.com/user-attachments/assets/5936e897-02d9-4acc-88ac-7c6fc27e1fdc" />
