@@ -1,16 +1,44 @@
-# React + Vite
+Github Repository Link - https://github.com/Ayushman594/Personal-portfolio.git
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Deployment Link - https://personal-portfolio-kappa-sooty-17.vercel.app
 
-Currently, two official plugins are available:
+This is my personal portfolio project which I have created by using React. Other than React , I have used React-Router for navigating to different sections of the page. I have also used Bootstrap + CSS for styling the site. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+This portfolio site includes sections like homepage, About page, Project page, Skill page and Contact page. Each section/page contains a Navbar and their respective data.
 
-## React Compiler
+Home page includes my brief introduction and my Photo and a button by clicking on which anyone can download my resume.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+<img width="1919" height="873" alt="image" src="https://github.com/user-attachments/assets/b8e15c57-6943-4095-bd8b-a82050759ba2" /> 
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+About page includes Complete/more detailed introduction about myself
+
+<img width="1919" height="868" alt="image" src="https://github.com/user-attachments/assets/d4b12af8-9f10-452d-97ed-5017eb3e43d2" />
+
+Projects page includes list of projects that i have done previously. Here I have mentioned Project title, Short Project description and button to view projects. Clicking on this button will direct anyone to the deployed project links where they can see and use my projects.
+
+<img width="1919" height="877" alt="image" src="https://github.com/user-attachments/assets/71fd461c-d7ef-486a-af71-a934800a4525" />
+
+In Skills page, I have mentioned all of my skills including Technical Skills and Soft Skills.
+
+<img width="1919" height="866" alt="image" src="https://github.com/user-attachments/assets/b0372647-715e-4cdc-b210-8bd6e1ae1ef3" />
+
+
+And in Contact page, I have mentioned my phone number, email address and links to a social media handle, github profile link and LinkedIn link
+
+<img width="1919" height="867" alt="image" src="https://github.com/user-attachments/assets/fcaff680-59e8-4060-b4f2-bbfe202a1d17" />
+
+
+After this, I have made these weboages Responsive by using media queries.
+
+On Mobile view , My Portfolio site will look like this
+
+
+<img width="524" height="876" alt="image" src="https://github.com/user-attachments/assets/fcfc5ff4-dc17-4e27-b232-3c46a35dba57" />
+<img width="517" height="870" alt="image" src="https://github.com/user-attachments/assets/f86ccd28-8623-44dc-bb55-8fe97c20efb2" />
+<img width="512" height="875" alt="image" src="https://github.com/user-attachments/assets/5936e897-02d9-4acc-88ac-7c6fc27e1fdc" />
+<img width="511" height="865" alt="image" src="https://github.com/user-attachments/assets/2bc3b928-c59c-45a2-9d59-e4868dcb2720" />
+<img width="531" height="866" alt="image" src="https://github.com/user-attachments/assets/28928b34-d5a7-4d50-91a0-a8355811093a" />
+
+
+The challenges I have faced was not during creating code for this site, but during deployment. There was an error occurring whenever I was trying to deploy. I solved this issue but staying calm and carefully checking the error. the error was in path from which I was importing components. so I made corrections to that path and deployed it again.
