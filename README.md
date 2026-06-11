@@ -37,3 +37,4 @@ On Mobile view , My Portfolio site will look like this
 <img width="531" height="866" alt="image" src="https://github.com/user-attachments/assets/28928b34-d5a7-4d50-91a0-a8355811093a" />
 
 
+The challenges I have faced was not during creating code for this site, but during deployment. There was an error occurring whenever I was trying to deploy. I solved this issue but staying calm and carefully checking the error. the error was in path from which I was importing components. so I made corrections to that path and deployed it again.
