@@ -13,7 +13,7 @@ Home page includes my brief introduction and my Photo and a button by clicking o
 
 <br/>
 About page includes Complete/more detailed introduction about myself
-<br/>
+
 <br/>
 <img width="1919" height="868" alt="image" src="https://github.com/user-attachments/assets/d4b12af8-9f10-452d-97ed-5017eb3e43d2" />
 
